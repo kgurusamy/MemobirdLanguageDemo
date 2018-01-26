@@ -1,0 +1,11 @@
+{
+    "title": "Hello!",
+    "description": "Welcome to Xiamen!",
+    "placeholder1": "Place holder1 : %name%!",
+    "placeholder2": "Place holder2 : {{project}}!",
+    "project" : "Memobird",
+    "tabMenu1" : "First",
+    "tabMenu2" : "Second",
+    "tabMenu3" : "Settings",
+    "Choose Language" : "Choose Language"
+}

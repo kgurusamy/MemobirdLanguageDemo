@@ -1,0 +1,12 @@
+{
+    "title": "你好！",
+    "description": "欢迎来到厦门！",
+    "placeholder1": "占位符1： %name%!",
+    "placeholder2": "占位符2： {{project}}!",
+    "project" : "Memobird",
+    "tabMenu1" : "第一",
+    "tabMenu2" : "第二",
+    "tabMenu3" : "设置",
+    "Choose Language" : "选择语言"
+    
+}

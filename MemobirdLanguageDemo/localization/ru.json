@@ -1,0 +1,11 @@
+{
+    "title": "Здравствуйте!",
+    "description": "Добро пожаловать в Сямынь!",
+    "placeholder1": "Держатель места1: %name%!",
+    "placeholder2": "Держатель места2: {{project}}!",
+    "project" : "Memobird",
+    "tabMenu1" : "Первый",
+    "tabMenu2" : "второй",
+    "tabMenu3" : "настройки",
+    "Choose Language" : "Выберите язык"
+}
